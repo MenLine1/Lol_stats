@@ -84,4 +84,4 @@ The project uses the following technologies:
 ## Authors
 
 - **Mateusz Martyna** - [GitHub](https://github.com/MenLine1)
-- **Jakub Matraszek** - [Collaborator's GitHub](https://github.com/collaborator-username)
+- **Jakub Matraszek** - [GitHub](https://github.com/Maatras)
